@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+body {
+  background-image: url("/images/snowfall.jpg");
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  height: 100vh;
+}
+
+.more-info p {
+  font-size: 20px;
+}
+.more-info span {
+  font-weight: 600;
+}
+.line{
+  text-decoration: none;
+}
+body {
+  text-align: center; 
+}
+.container {
+  max-width: none;
+}
+
+h1 {
+  font-size: 5em; 
+  font-weight: bold;
+  margin-top: 20%; 
+} 
